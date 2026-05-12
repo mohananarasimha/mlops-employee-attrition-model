@@ -54,9 +54,9 @@ No ML experience needed. That is what this repo teaches.
 
 ---
 
-## Phase 1: Local Development & Data Pipelines
+## Phase 1: Local Development & Data Pipelines (Start Here)
 
-**Goal:** Build the full ML foundation on your local machine — from raw data to a trained, tested model.
+**Goal:** Build the required ML foundation for by building an Employee attrition prediction model from your local systems.
 
 **Use case throughout:** Employee attrition prediction for a large organisation (~500,000 employees). One problem, end to end. Keeps the focus on infrastructure and operations, not data science theory.
 
