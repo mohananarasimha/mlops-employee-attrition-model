@@ -32,13 +32,11 @@ You do not need to become a data scientist. But just like understanding how a Ja
 
 ## What We Build
 
-| Track | What You Learn |
-|-------|----------------|
-| 🤖 Traditional ML | Train, serve, automate, and monitor a real ML model on Kubernetes |
-| 🧠 Foundational Models | Serve LLMs in production using vLLM, TGI, and Ollama |
-| ⚙️ LLM-Powered DevOps | Monitor K8s clusters, build RAG pipelines and agents with LLMs |
+We'll start with the basics of building and training a model, then work our way up to production-ready MLOps.
 
-Everything runs on Kubernetes, Docker, and tools you already use.
+Just like a DevOps engineer doesn't write the application but understands how it is built and deployed, an MLOps engineer doesn't need to be a data scientist. Understanding the ML workflow helps you build, automate, deploy, and troubleshoot ML systems effectively.
+
+Everything in this roadmap runs on Kubernetes, Docker, and tools you'll use in real-world MLOps platforms.
 
 ---
 
