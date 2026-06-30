@@ -42,18 +42,6 @@ Everything runs on Kubernetes, Docker, and tools you already use.
 
 ---
 
-## Prerequisites
-
-| Skill | Level |
-|-------|-------|
-| Kubernetes | Intermediate |
-| AWS EKS | Working knowledge |
-| Python | Basic (read and run scripts) |
-
-No ML experience needed. That is what this repo teaches.
-
----
-
 ## Phase 1: Local Development & Data Pipelines (Start Here)
 
 **Goal:** Build the required ML foundation for by building an Employee attrition prediction model from your local systems.
@@ -80,9 +68,14 @@ Code: `phase-1-local-dev/`
 | 3 | Data Versioning using Airflow on Kubernetes | [Read The Guide](https://newsletter.devopscube.com/p/mlops-airflow-dvc-pipeline)|
 | 4 | Feature Store Fundamentals Explained | [Read The Guide](https://newsletter.devopscube.com/p/mlops-feature-store) |
 | 5 | Hands-on Feature Store with Feast on Kubernetes | [Read The Guide](https://devopscube.com/setup-feature-store-feast-on-kubernetes/) |
-| 6 | Kubeflow Explained for MLOps | 🔜 Coming Next |
-| 7 | Hands-on Kubeflow on Kubernetes | 🔜 Planned |
-| 8 | MLflow Explained for MLOps | 🔜 Planned |
+| 6 | Kubeflow Explained for MLOps | [Read The Guide](https://newsletter.devopscube.com/p/kubeflow-pipelines)  |
+| 7 | Hands-on Kubeflow on Kubernetes | [Read The Guide](https://devopscube.com/setup-kubeflow-pipelines-kubernetes/) |
+| 8 | Kubeflow Trainer Explained (Hands-on) | 🔜 Coming Next |
+| 9 | MLflow Explained for MLOps | 🔜 Planned |
+| 10| Hands-on MLflow on Kubernetes | 🔜 Planned |
+| 11| Model Monotoring Explained | 🔜 Planned |
+| 12| Model Monotoring - Hands On | 🔜 Planned |
+| 12| Capstone Peroject: End to Ends MLops Projects on Kubernetes | 🔜 Planned |
 
 Code: `phase-2-enterprise-setup/`
 
