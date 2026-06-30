@@ -76,13 +76,13 @@ Code: `phase-1-local-dev/`
 | 11| Model Monotoring Explained | 🔜 Planned |
 | 12| Model Monotoring - Hands On | 🔜 Planned |
 
-### Capstone Project: End to Ends MLops Projects on Kubernetes | 🔜 Planned |
+Code: `phase-2-enterprise-setup/`
+
+## Capstone MLOps Project: End to Ends MLops Projects on Kubernetes | 🔜 Planned |
 
 In this capstone project, you'll build a production-style MLOps platform on Kubernetes by combining everything you've learned throughout this series.
 
 By the end, you'll have built an enterprise-grade MLOps workflow that mirrors how modern organizations develop, train, track, and operate machine learning models on Kubernetes.
-
-Code: `phase-2-enterprise-setup/`
 
 ---
 
