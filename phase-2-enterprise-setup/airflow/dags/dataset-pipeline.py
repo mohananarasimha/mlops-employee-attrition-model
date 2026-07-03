@@ -4,7 +4,7 @@ from airflow.providers.cncf.kubernetes.operators.pod import KubernetesPodOperato
 from kubernetes.client import models as k8s
 
 # Configuration
-GIT_REPO = "https://github.com/techiescamp/mlops-for-devops-dev.git"
+GIT_REPO = "https://github.com/mohananarasimha/mlops-employee-attrition-model.git"
 GIT_BRANCH = "main"
 DVC_DATA_FILE = "phase-1-local-dev/datasets/employee_attrition.csv"
 DVC_IMAGE = "techiescamp/airflow-dvc-worker:v2.0.0"
